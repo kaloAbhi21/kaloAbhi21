@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on Sorting Visualizer.<br> I’m currently learning JavaScript.
+I’m currently working on azmth.<br> I’m currently learning React.
 
 
 ## 🌐 Socials:
