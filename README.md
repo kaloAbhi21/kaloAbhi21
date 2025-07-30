@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on azmth.<br> I’m currently learning React.
+I’m currently at azmth.<br> I’m currently learning React.js.
 
 
 ## 🌐 Socials:
